@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SuperSystem.Dados/1.0.0": {
+        "dependencies": {
+          "SuperSystem.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "SuperSystem.Dados.dll": {}
+        }
+      },
+      "SuperSystem.Dominio/1.0.0": {
+        "runtime": {
+          "SuperSystem.Dominio.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SuperSystem.Dados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SuperSystem.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Gellyorge\Desktop\aula bessa\SuperSystem\SuperSystem.Dominio\bin\Debug\net8.0\SuperSystem.Dominio.deps.json
+C:\Users\Gellyorge\Desktop\aula bessa\SuperSystem\SuperSystem.Dominio\bin\Debug\net8.0\SuperSystem.Dominio.dll
+C:\Users\Gellyorge\Desktop\aula bessa\SuperSystem\SuperSystem.Dominio\bin\Debug\net8.0\SuperSystem.Dominio.pdb
+C:\Users\Gellyorge\Desktop\aula bessa\SuperSystem\SuperSystem.Dominio\obj\Debug\net8.0\SuperSystem.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gellyorge\Desktop\aula bessa\SuperSystem\SuperSystem.Dominio\obj\Debug\net8.0\SuperSystem.Dominio.AssemblyInfoInputs.cache
+C:\Users\Gellyorge\Desktop\aula bessa\SuperSystem\SuperSystem.Dominio\obj\Debug\net8.0\SuperSystem.Dominio.AssemblyInfo.cs
+C:\Users\Gellyorge\Desktop\aula bessa\SuperSystem\SuperSystem.Dominio\obj\Debug\net8.0\SuperSystem.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Gellyorge\Desktop\aula bessa\SuperSystem\SuperSystem.Dominio\obj\Debug\net8.0\SuperSystem.Dominio.dll
+C:\Users\Gellyorge\Desktop\aula bessa\SuperSystem\SuperSystem.Dominio\obj\Debug\net8.0\refint\SuperSystem.Dominio.dll
+C:\Users\Gellyorge\Desktop\aula bessa\SuperSystem\SuperSystem.Dominio\obj\Debug\net8.0\SuperSystem.Dominio.pdb
+C:\Users\Gellyorge\Desktop\aula bessa\SuperSystem\SuperSystem.Dominio\obj\Debug\net8.0\ref\SuperSystem.Dominio.dll

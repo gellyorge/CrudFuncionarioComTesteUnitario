@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SuperSystem.Dominio/1.0.0": {
+        "runtime": {
+          "SuperSystem.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SuperSystem.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

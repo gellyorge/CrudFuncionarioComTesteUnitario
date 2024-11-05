@@ -1,0 +1,15 @@
+C:\Users\Gellyorge\Desktop\aula bessa\SuperSystem\SuperSystem.Dados\bin\Debug\net8.0\SuperSystem.Dados.deps.json
+C:\Users\Gellyorge\Desktop\aula bessa\SuperSystem\SuperSystem.Dados\bin\Debug\net8.0\SuperSystem.Dados.dll
+C:\Users\Gellyorge\Desktop\aula bessa\SuperSystem\SuperSystem.Dados\bin\Debug\net8.0\SuperSystem.Dados.pdb
+C:\Users\Gellyorge\Desktop\aula bessa\SuperSystem\SuperSystem.Dados\bin\Debug\net8.0\SuperSystem.Dominio.dll
+C:\Users\Gellyorge\Desktop\aula bessa\SuperSystem\SuperSystem.Dados\bin\Debug\net8.0\SuperSystem.Dominio.pdb
+C:\Users\Gellyorge\Desktop\aula bessa\SuperSystem\SuperSystem.Dados\obj\Debug\net8.0\SuperSystem.Dados.csproj.AssemblyReference.cache
+C:\Users\Gellyorge\Desktop\aula bessa\SuperSystem\SuperSystem.Dados\obj\Debug\net8.0\SuperSystem.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gellyorge\Desktop\aula bessa\SuperSystem\SuperSystem.Dados\obj\Debug\net8.0\SuperSystem.Dados.AssemblyInfoInputs.cache
+C:\Users\Gellyorge\Desktop\aula bessa\SuperSystem\SuperSystem.Dados\obj\Debug\net8.0\SuperSystem.Dados.AssemblyInfo.cs
+C:\Users\Gellyorge\Desktop\aula bessa\SuperSystem\SuperSystem.Dados\obj\Debug\net8.0\SuperSystem.Dados.csproj.CoreCompileInputs.cache
+C:\Users\Gellyorge\Desktop\aula bessa\SuperSystem\SuperSystem.Dados\obj\Debug\net8.0\SuperSys.C2AEB071.Up2Date
+C:\Users\Gellyorge\Desktop\aula bessa\SuperSystem\SuperSystem.Dados\obj\Debug\net8.0\SuperSystem.Dados.dll
+C:\Users\Gellyorge\Desktop\aula bessa\SuperSystem\SuperSystem.Dados\obj\Debug\net8.0\refint\SuperSystem.Dados.dll
+C:\Users\Gellyorge\Desktop\aula bessa\SuperSystem\SuperSystem.Dados\obj\Debug\net8.0\SuperSystem.Dados.pdb
+C:\Users\Gellyorge\Desktop\aula bessa\SuperSystem\SuperSystem.Dados\obj\Debug\net8.0\ref\SuperSystem.Dados.dll
